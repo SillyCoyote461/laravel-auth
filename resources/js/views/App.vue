@@ -1,11 +1,11 @@
 <template>
-    <div>
-      <h1>Prova</h1>
-    </div>
-  </template>
+    <h1>Nulla da vedere qui per il momento</h1>
+</template>
 
-  <script>
+<script>
+
+
   export default {
-    name: "App"
+    name: "App",
   };
-  </script>
+</script>
